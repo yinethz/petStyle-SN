@@ -1,15 +1,4 @@
 
-.error{
-  display : flex;
-  flex-flow: column;
-  text-align: center;
-}
-
-.aHome{
-  font-size: 24px;
-  margin-top: 1%;
-}
-
 .google{
   order: -1;
   position: relative;
@@ -47,11 +36,4 @@
   right: -10px;
   width: 0;
   height: 0;
-}
-
-.pError, .pErrorIn{
-  color: red;
-  text-align: center;
-  margin-top: -9px;
-  margin-bottom: 1px;
 }

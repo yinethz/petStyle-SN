@@ -1,5 +1,11 @@
+@import url('register.css');
+
 * {
     margin: 0;
     padding: 0;
     font-family: 'Raleway', sans-serif;
+    /* background-image: url('../assets/bg-h.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover; */
 }
+
